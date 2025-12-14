@@ -37,4 +37,3 @@ Face-Recognition-Attendance/
 ├── main.py                # Main Python program
 ├── YYYY-MM-DD.csv         # Auto-generated attendance file
 └── README.md              # Project documentation
-
