@@ -1,0 +1,14 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+
+# Face recognition specific
+faces/
+*.pkl
+*.dat
